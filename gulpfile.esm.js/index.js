@@ -4,7 +4,7 @@
  *
  *  Rather than managing one big file containing multiple Gulp tasks and
  *  helper functions, the whole collection has been split and organized under
- *  the `tasks/` directory. User tasks are exposed below.
+ *  the `tasks/` directory. User tasks are exposed below..
  */
 
 //  Expose user tasks and make `serve` the default task.
